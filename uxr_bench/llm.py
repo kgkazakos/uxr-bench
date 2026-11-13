@@ -23,7 +23,7 @@ except ImportError:
 BACKEND_MODELS: dict[str, str] = {
     "openai": "openai/gpt-4o-mini",
     "anthropic": "anthropic/claude-haiku-4-5-20251001",
-    "gemini": "gemini/gemini-2.0-flash",
+    "gemini": "gemini/gemini-3.6-flash",
 }
 
 
